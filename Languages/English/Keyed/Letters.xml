@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <LetterLabelNukosPodCrash>Nuko pod crash</LetterLabelNukosPodCrash>
+  <LetterNukosPodCrash>Somebody dropped a pod here! An injured nuko climbs out... It appears to have been abandoned by its previous owner...</LetterNukosPodCrash>
+  <LetterLabelXmasNukosWanderIn>Merry Xmas!</LetterLabelXmasNukosWanderIn>
+  <LetterXmasNukosWanderIn>Some Xmas nukos have joined your colony with a gift. Happy holidays!</LetterXmasNukosWanderIn>
+  <LetterLabelNukosPasses>Rare nukos!</LetterLabelNukosPasses>
+  <LetterNukosPasses>A small group of nukos have wandered into the area.\n\nNukos will leave the area in a few days.</LetterNukosPasses>
+
+</LanguageData>

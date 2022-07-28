@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Maidnukos.label>고양이 메이드</Maidnukos.label>
+  <Maidnukos.labelPlural>고양이 메이드</Maidnukos.labelPlural>
+  <Maidnukos.lifeStages.0.label>고양이 메이드 아기</Maidnukos.lifeStages.0.label>
+  <Maidnukos.lifeStages.0.labelPlural>고양이 메이드 아기들</Maidnukos.lifeStages.0.labelPlural>
+  <Maidnukos.lifeStages.0.labelMale>남자 고양이 메이드 아기</Maidnukos.lifeStages.0.labelMale>
+  <Maidnukos.lifeStages.0.labelMalePlural>남자 고양이 메이드 아기</Maidnukos.lifeStages.0.labelMalePlural>
+  <Maidnukos.lifeStages.0.labelFemale>여자 고양이 메이드 아기</Maidnukos.lifeStages.0.labelFemale>
+  <Maidnukos.lifeStages.0.labelFemalePlural>여자 고양이 메이드 아기</Maidnukos.lifeStages.0.labelFemalePlural>
+  <Maidnukos.lifeStages.1.label>고양이 메이드 아이</Maidnukos.lifeStages.1.label>
+  <Maidnukos.lifeStages.1.labelPlural>메이드 고양이 아이</Maidnukos.lifeStages.1.labelPlural>
+  <Maidnukos.lifeStages.1.labelMale>소년 고양이메이드</Maidnukos.lifeStages.1.labelMale>
+  <Maidnukos.lifeStages.1.labelMalePlural>소년 고양이 메이드들</Maidnukos.lifeStages.1.labelMalePlural>
+  <Maidnukos.lifeStages.1.labelFemale>소녀 고양이 메이드</Maidnukos.lifeStages.1.labelFemale>
+  <Maidnukos.lifeStages.1.labelFemalePlural>소녀 고양이 메이드</Maidnukos.lifeStages.1.labelFemalePlural>
+  <Maidnukos.lifeStages.2.label>고양이 메이드</Maidnukos.lifeStages.2.label>
+  <Maidnukos.lifeStages.2.labelPlural>메이드 고양이들</Maidnukos.lifeStages.2.labelPlural>
+  <Maidnukos.lifeStages.2.labelMale>고양이 메이드</Maidnukos.lifeStages.2.labelMale>
+  <Maidnukos.lifeStages.2.labelMalePlural>고양이 메이드</Maidnukos.lifeStages.2.labelMalePlural>
+  <Maidnukos.lifeStages.2.labelFemale>고양이 메이드</Maidnukos.lifeStages.2.labelFemale>
+  <Maidnukos.lifeStages.2.labelFemalePlural>고양이 메이드들</Maidnukos.lifeStages.2.labelFemalePlural>
+  <Maidnukos.labelMale>남자 고양이 메이드</Maidnukos.labelMale>
+  <Maidnukos.labelMalePlural>남자 고양이 메이드들</Maidnukos.labelMalePlural>
+  <Maidnukos.labelFemale>여자 고양이 메이드</Maidnukos.labelFemale>
+  <Maidnukos.labelFemalePlural>여자 고양이 메이드들</Maidnukos.labelFemalePlural>
+
+  <XmasMaidnukos.label>크리스마스 고양이메이드</XmasMaidnukos.label>
+  <XmasMaidnukos.labelPlural>크리스마스 고양이 메이드들</XmasMaidnukos.labelPlural>
+  <XmasMaidnukos.lifeStages.0.label>고양이 메이드 아기</XmasMaidnukos.lifeStages.0.label>
+  <XmasMaidnukos.lifeStages.0.labelPlural>고양이 메이드 아기</XmasMaidnukos.lifeStages.0.labelPlural>
+  <XmasMaidnukos.lifeStages.0.labelMale>남자 고양이 메이드 아기</XmasMaidnukos.lifeStages.0.labelMale>
+  <XmasMaidnukos.lifeStages.0.labelMalePlural>남자 고양이 메이드 아기들</XmasMaidnukos.lifeStages.0.labelMalePlural>
+  <XmasMaidnukos.lifeStages.0.labelFemale>여자 고양이 메이드 아기</XmasMaidnukos.lifeStages.0.labelFemale>
+  <XmasMaidnukos.lifeStages.0.labelFemalePlural>여자 고양이 메이드 아기들</XmasMaidnukos.lifeStages.0.labelFemalePlural>
+  <XmasMaidnukos.lifeStages.1.label>고양이 메이드 아이</XmasMaidnukos.lifeStages.1.label>
+  <XmasMaidnukos.lifeStages.1.labelPlural>고양이 메이드 아이들</XmasMaidnukos.lifeStages.1.labelPlural>
+  <XmasMaidnukos.lifeStages.1.labelMale>소년 고양이 메이드</XmasMaidnukos.lifeStages.1.labelMale>
+  <XmasMaidnukos.lifeStages.1.labelMalePlural>소년 고양이 메이드들</XmasMaidnukos.lifeStages.1.labelMalePlural>
+  <XmasMaidnukos.lifeStages.1.labelFemale>소녀 고양이 메이드</XmasMaidnukos.lifeStages.1.labelFemale>
+  <XmasMaidnukos.lifeStages.1.labelFemalePlural>소녀 고양이 메이드들</XmasMaidnukos.lifeStages.1.labelFemalePlural>
+  <XmasMaidnukos.lifeStages.2.label>고양이 메이드</XmasMaidnukos.lifeStages.2.label>
+  <XmasMaidnukos.lifeStages.2.labelPlural>고양이 메이드</XmasMaidnukos.lifeStages.2.labelPlural>
+  <XmasMaidnukos.lifeStages.2.labelMale>고양이 메이드</XmasMaidnukos.lifeStages.2.labelMale>
+  <XmasMaidnukos.lifeStages.2.labelMalePlural>고양이 메이드들</XmasMaidnukos.lifeStages.2.labelMalePlural>
+  <XmasMaidnukos.lifeStages.2.labelFemale>고양이 메이드</XmasMaidnukos.lifeStages.2.labelFemale>
+  <XmasMaidnukos.lifeStages.2.labelFemalePlural>고양이 메이드들</XmasMaidnukos.lifeStages.2.labelFemalePlural>
+  <XmasMaidnukos.labelMale>남자 크리스마스 고양이 메이드</XmasMaidnukos.labelMale>
+  <XmasMaidnukos.labelMalePlural>남자 크리스마스 고양이 메이드들</XmasMaidnukos.labelMalePlural>
+  <XmasMaidnukos.labelFemale>여자 크리스마스 고양이 메이드</XmasMaidnukos.labelFemale>
+  <XmasMaidnukos.labelFemalePlural>여자 크리스마스 고양이 메이드들</XmasMaidnukos.labelFemalePlural>
+
+
+</LanguageData>

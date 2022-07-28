@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Nuko -->
+  <Maidnukos.label>人形生物猫NUKOS</Maidnukos.label>
+  <!-- EN: On a distant glitterworld during the 3100s, cat-loving genetic scientists utilized gene-splicing technology to combine the best qualities of humans and cats. The Nukos were the result of this technology.\n\nNukos mature significantly faster than humans, but still have about half of their life expectancy. They don't grow as large or as powerful as humans, but they are more agile, increasing their speed. They are intelligent enough to be trained in tasks considered simple for humans. They also tend to be beautiful and affectionate towards their masters.\n\nIn the distant Eternal Empire and various glitterworlds, Nukos are a popular family pet for providing assistance. However, there are some feral packs living on numerous other worlds. -->
+  <Maidnukos.description>在遥远的32世纪末期的地球，某个（年龄=独身时间的）猫爱好者基因科学家，将人类与猫的基因进行结合并魔改造后所制造出来的物种。\n  \n 身材娇小不怎么高，力气也很小，走路速度倒是比普通人类快。由于是基因科技的产物，所以NUKOS长相普遍都很漂亮可爱，雄性长相也相当美型而且中性（相对于人类而言）。\n  \n 在遥远的永恒帝国里，是大人气的家庭助手宠物。</Maidnukos.description>
+  <!-- EN: teeth -->
+  <Maidnukos.tools.teeth.label>牙</Maidnukos.tools.teeth.label>
+  <!-- EN: left fist -->
+  <Maidnukos.tools.left_fist.label>左拳</Maidnukos.tools.left_fist.label>
+  <!-- EN: right fist -->
+  <Maidnukos.tools.right_fist.label>右拳</Maidnukos.tools.right_fist.label>
+  <!-- EN: head -->
+  <Maidnukos.tools.head.label>头</Maidnukos.tools.head.label>
+  
+</LanguageData>

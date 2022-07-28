@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <NukosNearbySelf.stages.0.label>근처에 위치한 인간형 고양이</NukosNearbySelf.stages.0.label>
+  <NukosNearbySelf.stages.0.description>나는 아름다운 생명체와 함께하는 삶이 너무 행복해</NukosNearbySelf.stages.0.description>
+
+  <MaidnukosHairApparelHappy.stages.0.label>고양이 메이드의 머리카락 {0}</MaidnukosHairApparelHappy.stages.0.label>
+  <MaidnukosHairApparelHappy.stages.0.description>정말 부드럽고 편안해</MaidnukosHairApparelHappy.stages.0.description>
+  <MaidnukosHairApparelHappy.stages.1.label>고양이 메이드의 머리카락 {0} (+1)</MaidnukosHairApparelHappy.stages.1.label>
+  <MaidnukosHairApparelHappy.stages.1.description>나는 이 느낌이 좋아</MaidnukosHairApparelHappy.stages.1.description>
+  <MaidnukosHairApparelHappy.stages.2.label>고양이 메이드의 머리카락 {0} (+2)</MaidnukosHairApparelHappy.stages.2.label>
+  <MaidnukosHairApparelHappy.stages.2.description>안락한 담요에 덮여 있는거 같아</MaidnukosHairApparelHappy.stages.2.description>
+  <MaidnukosHairApparelHappy.stages.3.label>고양이 메이드의 머리카락 {0} etc</MaidnukosHairApparelHappy.stages.3.label>
+  <MaidnukosHairApparelHappy.stages.3.description>와아,마치 천국에 있는것만 같아</MaidnukosHairApparelHappy.stages.3.description>
+
+
+</LanguageData>

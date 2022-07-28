@@ -1,0 +1,82 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Patch>
+  <Operation Class="PatchOperationConditional">
+    <xpath>/Defs/RecipeDef[defName = "InstallSimpleProstheticTailAnimal"]</xpath>
+    <success>Always</success>
+    <match Class="PatchOperationAdd">
+      <xpath>/Defs/ThingDef[defName = "Maidnukos"]/recipes</xpath>
+      <value>
+        <li>CureInjuryBurnAnimal</li>
+        <li>CureInjuryCrushAnimal</li>
+        <li>CureInjuryCrackAnimal</li>
+        <li>CureInjuryCutAnimal</li>
+        <li>CureInjurySurgicalCutAnimal</li>
+        <li>CureInjuryScratchAnimal</li>
+        <li>CureInjuryBiteAnimal</li>
+        <li>CureInjuryStabAnimal</li>
+        <li>CureInjuryGunshotAnimal</li>
+        <li>CureInjuryShreddedAnimal</li>
+        <li>CureInjuryBruiseAnimal</li>
+        <li>InstallSimpleProstheticTailAnimal</li>
+        <li>InstallPowerClawAnimal</li>
+        <li>InstallPegLegAnimal</li>
+        <li>InstallSimpleProstheticLegAnimal</li>
+        <li>InstallBionicLegAnimal</li>
+        <li>InstallSimpleProstheticArmAnimal</li>
+        <li>InstallBionicArmAnimal</li>
+        <li>InstallNoseAnimalSimple</li>
+        <li>InstallBionicEyeAnimal</li>
+        <li>InstallEarAnimalSimple</li>
+        <li>InstallEarAnimalBionic</li>
+        <li>InstallJawAnimalSimple</li>
+        <li>InstallJawAnimalBionic</li>
+        <li>InstallSpineAnimalSimple</li>
+        <li>InstallSpineAnimalBionic</li>
+        <li>InstallAnimalBrainStimulator</li>
+        <li>InstallBionicAnimalHeart</li>
+        <li>InstallBionicAnimalLung</li>
+        <li>InstallBionicAnimalLiver</li>
+        <li>InstallBionicAnimalKidney</li>
+        <li>InstallBionicAnimalStomach</li>
+      </value>
+    </match>
+  </Operation>
+  <Operation Class="PatchOperationConditional">
+    <xpath>/Defs/TipSetDef[defName = "RoyaltyTips"]</xpath>
+    <success>Always</success>
+    <match Class="PatchOperationAdd">
+      <xpath>/Defs/ThingDef[defName = "Maidnukos"]/recipes</xpath>
+      <value>
+        <li>InstallImmunoenhancer</li>
+        <li>RemoveImmunoenhancer</li>
+        <li>InstallCoagulator</li>
+        <li>RemoveCoagulator</li>
+        <li>InstallHealingEnhancer</li>
+        <li>RemoveHealingEnhancer</li>
+        <li>InstallToughskinGland</li>
+        <li>RemoveToughskinGland</li>
+        <li>InstallArmorskinGland</li>
+        <li>RemoveArmorskinGland</li>
+        <li>InstallStoneskinGland</li>
+        <li>RemoveStoneskinGland</li>
+        <li>InstallDetoxifierStomach</li>
+        <li>InstallReprocessorStomach</li>
+        <li>InstallNuclearStomach</li>
+        <li>InstallCircadianHalfCycler</li>
+        <li>RemoveCircadianHalfCycler</li>
+        <li>InstallCircadianAssistant</li>
+        <li>RemoveCircadianAssistant</li>
+        <li>InstallHandTalon</li>
+        <li>RemoveHandTalon</li>
+        <li>InstallElbowBlade</li>
+        <li>RemoveElbowBlade</li>
+        <li>InstallKneeSpike</li>
+        <li>RemoveKneeSpike</li>
+        <li>InstallVenomFangs</li>
+        <li>RemoveVenomFangs</li>
+        <li>InstallVenomTalon</li>
+        <li>RemoveVenomTalon</li>
+      </value>
+    </match>
+  </Operation>
+</Patch>

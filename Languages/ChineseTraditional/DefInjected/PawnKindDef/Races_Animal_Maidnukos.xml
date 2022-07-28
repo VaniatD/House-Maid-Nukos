@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+	<LanguageData>
+		<Maidnukos.label>人形生物貓NUKOS</Maidnukos.label>
+		<Maidnukos.lifeStages.0.label>貓寶寶</Maidnukos.lifeStages.0.label>
+		<Maidnukos.lifeStages.0.labelPlural>貓寶寶</Maidnukos.lifeStages.0.labelPlural>
+		<Maidnukos.lifeStages.1.label>貓幼兒</Maidnukos.lifeStages.1.label>
+		<Maidnukos.lifeStages.1.labelMale>正太貓貓</Maidnukos.lifeStages.1.labelMale>
+		<Maidnukos.lifeStages.1.labelFemale>蘿莉貓貓</Maidnukos.lifeStages.1.labelFemale>
+		<Maidnukos.lifeStages.2.label>家傭貓</Maidnukos.lifeStages.2.label>
+		<Maidnukos.lifeStages.2.labelMale>僞娘家傭貓</Maidnukos.lifeStages.2.labelMale>
+		<Maidnukos.lifeStages.2.labelFemale>女僕貓娘</Maidnukos.lifeStages.2.labelFemale>
+		<XmasMaidnukos.label>人形生物貓NUKOS</XmasMaidnukos.label>
+		<XmasMaidnukos.lifeStages.0.label>貓寶寶</XmasMaidnukos.lifeStages.0.label>
+		<XmasMaidnukos.lifeStages.0.labelPlural>貓寶寶</XmasMaidnukos.lifeStages.0.labelPlural>
+		<XmasMaidnukos.lifeStages.1.label>貓幼兒</XmasMaidnukos.lifeStages.1.label>
+		<XmasMaidnukos.lifeStages.1.labelMale>正太貓貓</XmasMaidnukos.lifeStages.1.labelMale>
+		<XmasMaidnukos.lifeStages.1.labelFemale>蘿莉貓貓</XmasMaidnukos.lifeStages.1.labelFemale>
+		<XmasMaidnukos.lifeStages.2.label>家傭貓</XmasMaidnukos.lifeStages.2.label>
+		<XmasMaidnukos.lifeStages.2.labelMale>家傭貓</XmasMaidnukos.lifeStages.2.labelMale>
+		<XmasMaidnukos.lifeStages.2.labelFemale>家傭貓</XmasMaidnukos.lifeStages.2.labelFemale>
+	</LanguageData>

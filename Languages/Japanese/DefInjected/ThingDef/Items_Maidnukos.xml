@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- nukohair -->
+
+  <MaidnukosHair.label>メイドヌコの髪</MaidnukosHair.label>
+  <MaidnukosHair.description>メイドヌコの髪。スリムで柔らかく、滑らかな色合い、優れた繊維素材です。</MaidnukosHair.description>
+  <MaidnukosHair.stuffProps.stuffAdjective>メイドヌコの髪</MaidnukosHair.stuffProps.stuffAdjective>
+
+
+  <!-- nukomilk -->
+
+  <MaidnukosMilk.label>ヌコミルク</MaidnukosMilk.label>
+  <MaidnukosMilk.description>ヌコのミルク。微かに果物の味がする。ビタミンが豊富で栄養的なドリンクです。</MaidnukosMilk.description>
+
+
+  <!-- nukoidbell -->
+
+  <Nukoidbell.label>ヌコIDベル</Nukoidbell.label>
+  <Nukoidbell.description>ヌコたちのIDベル。ヌコ民政局から配布された身分証明です。ベルのチップには10086EBほどの情報が含まれています。アクセサリーとして装備できます。</Nukoidbell.description>
+
+
+  <!-- hat -->
+
+  <xmasantlers.label>トナカイの角</xmasantlers.label>
+  <xmasantlers.description>トナカイの角。頭に飾ったら空を飛べる気がする。</xmasantlers.description>
+
+
+</LanguageData>

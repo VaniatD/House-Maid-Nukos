@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <NukosNearbySelf.stages.0.label>ヌコが近くに</NukosNearbySelf.stages.0.label>
+  <NukosNearbySelf.stages.0.description>可愛いヌコに癒された.</NukosNearbySelf.stages.0.description>
+
+  <MaidnukosHairApparelHappy.stages.0.label>ヌコの髪 {0}</MaidnukosHairApparelHappy.stages.0.label>
+  <MaidnukosHairApparelHappy.stages.0.description>滑らかで柔らかい感触に癒された</MaidnukosHairApparelHappy.stages.0.description>
+  <MaidnukosHairApparelHappy.stages.1.label>ヌコの髪 {0} (+1)</MaidnukosHairApparelHappy.stages.1.label>
+  <MaidnukosHairApparelHappy.stages.1.description>この感触が好きだ</MaidnukosHairApparelHappy.stages.1.description>
+  <MaidnukosHairApparelHappy.stages.2.label>ヌコの髪 {0} (+2)</MaidnukosHairApparelHappy.stages.2.label>
+  <MaidnukosHairApparelHappy.stages.2.description>ブランケットに包まれてるようだ</MaidnukosHairApparelHappy.stages.2.description>
+  <MaidnukosHairApparelHappy.stages.3.label>ヌコの髪 {0} etc</MaidnukosHairApparelHappy.stages.3.label>
+  <MaidnukosHairApparelHappy.stages.3.description>すごく癒された</MaidnukosHairApparelHappy.stages.3.description>
+
+
+</LanguageData>

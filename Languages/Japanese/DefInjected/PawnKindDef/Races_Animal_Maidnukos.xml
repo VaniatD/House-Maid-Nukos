@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Maidnukos.label>メイドヌコ</Maidnukos.label>
+  <Maidnukos.labelPlural>メイドヌコズ</Maidnukos.labelPlural>
+  <Maidnukos.lifeStages.0.label>ヌコベイビー</Maidnukos.lifeStages.0.label>
+  <Maidnukos.lifeStages.0.labelPlural>ヌコベイビーズ</Maidnukos.lifeStages.0.labelPlural>
+  <Maidnukos.lifeStages.0.labelMale>オス　ヌコベイビー</Maidnukos.lifeStages.0.labelMale>
+  <Maidnukos.lifeStages.0.labelMalePlural>オス ヌコベイビーズ</Maidnukos.lifeStages.0.labelMalePlural>
+  <Maidnukos.lifeStages.0.labelFemale>メス ヌコベイビーズ</Maidnukos.lifeStages.0.labelFemale>
+  <Maidnukos.lifeStages.0.labelFemalePlural>メス ヌコベイビーズ</Maidnukos.lifeStages.0.labelFemalePlural>
+  <Maidnukos.lifeStages.1.label>子ヌコ</Maidnukos.lifeStages.1.label>
+  <Maidnukos.lifeStages.1.labelPlural>子ヌコたち</Maidnukos.lifeStages.1.labelPlural>
+  <Maidnukos.lifeStages.1.labelMale>ショタヌコ</Maidnukos.lifeStages.1.labelMale>
+  <Maidnukos.lifeStages.1.labelMalePlural>ショタヌコたち</Maidnukos.lifeStages.1.labelMalePlural>
+  <Maidnukos.lifeStages.1.labelFemale>ロリヌコ</Maidnukos.lifeStages.1.labelFemale>
+  <Maidnukos.lifeStages.1.labelFemalePlural>ロリヌコたち</Maidnukos.lifeStages.1.labelFemalePlural>
+  <Maidnukos.lifeStages.2.label>メイドヌコ</Maidnukos.lifeStages.2.label>
+  <Maidnukos.lifeStages.2.labelPlural>メイドヌコズ</Maidnukos.lifeStages.2.labelPlural>
+  <Maidnukos.lifeStages.2.labelMale>メイドヌコ</Maidnukos.lifeStages.2.labelMale>
+  <Maidnukos.lifeStages.2.labelMalePlural>メイドヌコズ</Maidnukos.lifeStages.2.labelMalePlural>
+  <Maidnukos.lifeStages.2.labelFemale>メイドヌコ</Maidnukos.lifeStages.2.labelFemale>
+  <Maidnukos.lifeStages.2.labelFemalePlural>メイドヌコズ</Maidnukos.lifeStages.2.labelFemalePlural>
+  <Maidnukos.labelMale>メイドヌコ</Maidnukos.labelMale>
+  <Maidnukos.labelMalePlural>メイドヌコズ</Maidnukos.labelMalePlural>
+  <Maidnukos.labelFemale>メイドヌコ</Maidnukos.labelFemale>
+  <Maidnukos.labelFemalePlural>メイドヌコズ</Maidnukos.labelFemalePlural>
+
+  <XmasMaidnukos.label>クリスマスメイドヌコ</XmasMaidnukos.label>
+  <XmasMaidnukos.labelPlural>クリスマスメイドヌコズ</XmasMaidnukos.labelPlural>
+  <XmasMaidnukos.lifeStages.0.label>メイドヌコベイビー</XmasMaidnukos.lifeStages.0.label>
+  <XmasMaidnukos.lifeStages.0.labelPlural>メイドヌコベイビーズ</XmasMaidnukos.lifeStages.0.labelPlural>
+  <XmasMaidnukos.lifeStages.0.labelMale>オス　メイドヌコベイビー</XmasMaidnukos.lifeStages.0.labelMale>
+  <XmasMaidnukos.lifeStages.0.labelMalePlural>オス　メイドヌコベイビーズ</XmasMaidnukos.lifeStages.0.labelMalePlural>
+  <XmasMaidnukos.lifeStages.0.labelFemale>メス　メイドヌコベイビー</XmasMaidnukos.lifeStages.0.labelFemale>
+  <XmasMaidnukos.lifeStages.0.labelFemalePlural>メス　メイドヌコベイビーズ</XmasMaidnukos.lifeStages.0.labelFemalePlural>
+  <XmasMaidnukos.lifeStages.1.label>子ヌコ</XmasMaidnukos.lifeStages.1.label>
+  <XmasMaidnukos.lifeStages.1.labelPlural>子ヌコたち</XmasMaidnukos.lifeStages.1.labelPlural>
+  <XmasMaidnukos.lifeStages.1.labelMale>ショタヌコ</XmasMaidnukos.lifeStages.1.labelMale>
+  <XmasMaidnukos.lifeStages.1.labelMalePlural>ショタヌコたち</XmasMaidnukos.lifeStages.1.labelMalePlural>
+  <XmasMaidnukos.lifeStages.1.labelFemale>ロリヌコ</XmasMaidnukos.lifeStages.1.labelFemale>
+  <XmasMaidnukos.lifeStages.1.labelFemalePlural>ロリヌコたち</XmasMaidnukos.lifeStages.1.labelFemalePlural>
+  <XmasMaidnukos.lifeStages.2.label>メイドヌコ</XmasMaidnukos.lifeStages.2.label>
+  <XmasMaidnukos.lifeStages.2.labelPlural>メイドヌコズ</XmasMaidnukos.lifeStages.2.labelPlural>
+  <XmasMaidnukos.lifeStages.2.labelMale>メイドヌコ</XmasMaidnukos.lifeStages.2.labelMale>
+  <XmasMaidnukos.lifeStages.2.labelMalePlural>メイドヌコズ</XmasMaidnukos.lifeStages.2.labelMalePlural>
+  <XmasMaidnukos.lifeStages.2.labelFemale>メイドヌコ</XmasMaidnukos.lifeStages.2.labelFemale>
+  <XmasMaidnukos.lifeStages.2.labelFemalePlural>メイドヌコズ</XmasMaidnukos.lifeStages.2.labelFemalePlural>
+  <XmasMaidnukos.labelMale>オス　クリスマスメイドヌコ</XmasMaidnukos.labelMale>
+  <XmasMaidnukos.labelMalePlural>オス　クリスマスメイドヌコズ</XmasMaidnukos.labelMalePlural>
+  <XmasMaidnukos.labelFemale>メス　クリスマスメイドヌコ</XmasMaidnukos.labelFemale>
+  <XmasMaidnukos.labelFemalePlural>メス　クリスマスメイドヌコズ</XmasMaidnukos.labelFemalePlural>
+
+
+</LanguageData>

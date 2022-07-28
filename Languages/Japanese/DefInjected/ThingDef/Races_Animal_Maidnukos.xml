@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Maidnukos.label>ヒューマノイド・キャット・ヌコズ</Maidnukos.label>
+  <Maidnukos.description>遥かなる遠い惑星、32世紀末期の地球、とあるネコマニアな（年齢＝恋人いない歴の）遺伝子科学者によって人間と猫の遺伝子を組み合わせた新しい生物です。
+  \n体型は細くて身長も低めで、力も人間より小さいが、歩く速度だけは人間より早い。遺伝技術により作られた生物なため、すべてのヌコたちは美形な外見で生まれてきます。人間にとってオスはかなり中性な美少年に見えるのでしょう。
+  \n遠く離れたエターナル帝国では大人気なペットです・</Maidnukos.description>
+  <Maidnukos.tools.1.label>左ヌコパンチ</Maidnukos.tools.1.label>
+  <Maidnukos.tools.2.label>右ヌコパンチ</Maidnukos.tools.2.label>
+  <Maidnukos.tools.3.label>ヌコヘッド</Maidnukos.tools.3.label>
+  <Maidnukos_Meat.label>ヌコ肉</Maidnukos_Meat.label>
+  <Maidnukos_Meat.description>ヌコの肉。栄養豊富で、繊細でほろ甘い味がする。肉品のなかでもレアなものです</Maidnukos_Meat.description>
+  <Maidnukos_Corpse.label>ヌコ死体</Maidnukos_Corpse.label>
+  <Maidnukos_Corpse.description>ヌコの死体。</Maidnukos_Corpse.description>
+</LanguageData>

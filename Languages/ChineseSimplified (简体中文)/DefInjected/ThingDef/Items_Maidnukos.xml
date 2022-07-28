@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Nuko hair -->
+  <MaidnukosHair.label>猫娘的头发</MaidnukosHair.label>
+  <!-- EN: The hair of a nuko. It is super slim and has a smooth, appealing color. Great material for furnishings. -->
+  <MaidnukosHair.description>猫娘们的毛发，纤细柔软，色泽光滑，是很好的纺织装饰用品。</MaidnukosHair.description>
+  
+  <!-- EN: Nuko milk -->
+  <MaidnukosMilk.label>猫娘乳</MaidnukosMilk.label>
+  <!-- EN: The milk of a female nuko. It has a slightly fruity flavor and is rich in vitamins. -->
+  <MaidnukosMilk.description>有着淡淡果香的猫奶。拥有丰富的各种维他命素。</MaidnukosMilk.description>
+  
+  <!-- EN: Nuko ID Bell -->
+  <Nukoidbell.label>猫娘的铃铛</Nukoidbell.label>
+  <!-- EN: A bell that serves as the identifier for a nuko. An internal chip contains 10086 EB's information. Can be equipped as an accessory. -->
+  <Nukoidbell.description>作为人形家佣猫生物的ID的铃铛。内部芯片包含了10086个EB的信息。可以作为装饰品装备。</Nukoidbell.description>
+  
+  <!-- EN: Xmas antlers -->
+  <xmasantlers.label>驯鹿发饰</xmasantlers.label>
+  <!-- EN: A pair of festive antlers that can be worn on one's head. Makes the wearer feel like an Xmas nuko, increasing their movement speed. -->
+  <xmasantlers.description>驯鹿发饰，带上后有会飞的感觉</xmasantlers.description>
+  
+</LanguageData>

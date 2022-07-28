@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- nukohair -->
+
+  <MaidnukosHair.label>고양이 메이드 머리카락</MaidnukosHair.label>
+  <MaidnukosHair.description>고양이 메이드의 머리카락입니다.매우 가볍고, 색상이 부드럽습니다. 가구에 좋은 소재입니다.</MaidnukosHair.description>
+  <MaidnukosHair.stuffProps.stuffAdjective>고양이 메이드 머리카락</MaidnukosHair.stuffProps.stuffAdjective>
+
+
+  <!-- nukomilk -->
+
+  <MaidnukosMilk.label>고양이 메이드 모유</MaidnukosMilk.label>
+  <MaidnukosMilk.description>과실을 곁들인 고양이 메이드의 모유입니다.비타민이 매우 풍부하게 함유 되어있습니다.</MaidnukosMilk.description>
+
+
+  <!-- nukoidbell -->
+
+  <Nukoidbell.label>고양이 메이드 ID 벨</Nukoidbell.label>
+  <Nukoidbell.description>고양이 메이드의 목걸이 벨 입니다.네코민국에서 배포 된 신분증입니다. 벨의 칩은 10086엑사바이트정도의 정보를 가지고 있습니다. 악세사리로 장착이 가능 합니다.</Nukoidbell.description>
+
+
+  <!-- hat -->
+
+  <xmasantlers.label>순록의 뿔</xmasantlers.label>
+  <xmasantlers.description>순록의 뿔 입니다.머리에 쓰면 하늘을 날수 있을 것만 같습니다.</xmasantlers.description>
+
+
+</LanguageData>

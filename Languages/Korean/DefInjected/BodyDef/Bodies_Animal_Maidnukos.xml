@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Maidnukos.label>고양이 집사</Maidnukos.label>
+  <Maidnukos.corePart.parts.6.customLabel>왼쪽 폐</Maidnukos.corePart.parts.6.customLabel>
+  <Maidnukos.corePart.parts.7.customLabel>오른쪽 폐</Maidnukos.corePart.parts.7.customLabel>
+  <Maidnukos.corePart.parts.8.customLabel>왼쪽 신장</Maidnukos.corePart.parts.8.customLabel>
+  <Maidnukos.corePart.parts.9.customLabel>오른쪽 신장</Maidnukos.corePart.parts.9.customLabel>
+  <Maidnukos.corePart.parts.11.parts.0.parts.1.customLabel>왼쪽 눈</Maidnukos.corePart.parts.11.parts.0.parts.1.customLabel>
+  <Maidnukos.corePart.parts.11.parts.0.parts.2.customLabel>오른쪽 눈</Maidnukos.corePart.parts.11.parts.0.parts.2.customLabel>
+  <Maidnukos.corePart.parts.11.parts.0.parts.3.customLabel>왼쪽 귀</Maidnukos.corePart.parts.11.parts.0.parts.3.customLabel>
+  <Maidnukos.corePart.parts.11.parts.0.parts.4.customLabel>오른쪽 귀</Maidnukos.corePart.parts.11.parts.0.parts.4.customLabel>
+  <Maidnukos.corePart.parts.12.parts.0.customLabel>왼쪽 쇄골</Maidnukos.corePart.parts.12.parts.0.customLabel>
+  <Maidnukos.corePart.parts.12.parts.1.parts.0.customLabel>left humerus</Maidnukos.corePart.parts.12.parts.1.parts.0.customLabel>
+  <Maidnukos.corePart.parts.12.parts.1.parts.1.customLabel>left radius</Maidnukos.corePart.parts.12.parts.1.parts.1.customLabel>
+  <Maidnukos.corePart.parts.12.parts.1.parts.2.parts.0.customLabel>left pinky</Maidnukos.corePart.parts.12.parts.1.parts.2.parts.0.customLabel>
+  <Maidnukos.corePart.parts.12.parts.1.parts.2.parts.1.customLabel>left ring finger</Maidnukos.corePart.parts.12.parts.1.parts.2.parts.1.customLabel>
+  <Maidnukos.corePart.parts.12.parts.1.parts.2.parts.2.customLabel>left middle finger</Maidnukos.corePart.parts.12.parts.1.parts.2.parts.2.customLabel>
+  <Maidnukos.corePart.parts.12.parts.1.parts.2.parts.3.customLabel>left index finger</Maidnukos.corePart.parts.12.parts.1.parts.2.parts.3.customLabel>
+  <Maidnukos.corePart.parts.12.parts.1.parts.2.parts.4.customLabel>left thumb</Maidnukos.corePart.parts.12.parts.1.parts.2.parts.4.customLabel>
+  <Maidnukos.corePart.parts.12.parts.1.parts.2.customLabel>left hand</Maidnukos.corePart.parts.12.parts.1.parts.2.customLabel>
+  <Maidnukos.corePart.parts.12.parts.1.customLabel>left arm</Maidnukos.corePart.parts.12.parts.1.customLabel>
+  <Maidnukos.corePart.parts.12.customLabel>왼쪽 어깨</Maidnukos.corePart.parts.12.customLabel>
+  <Maidnukos.corePart.parts.13.parts.0.customLabel>right clavicle</Maidnukos.corePart.parts.13.parts.0.customLabel>
+  <Maidnukos.corePart.parts.13.parts.1.parts.0.customLabel>right humerus</Maidnukos.corePart.parts.13.parts.1.parts.0.customLabel>
+  <Maidnukos.corePart.parts.13.parts.1.parts.1.customLabel>right radius</Maidnukos.corePart.parts.13.parts.1.parts.1.customLabel>
+  <Maidnukos.corePart.parts.13.parts.1.parts.2.parts.0.customLabel>right pinky</Maidnukos.corePart.parts.13.parts.1.parts.2.parts.0.customLabel>
+  <Maidnukos.corePart.parts.13.parts.1.parts.2.parts.1.customLabel>right ring finger</Maidnukos.corePart.parts.13.parts.1.parts.2.parts.1.customLabel>
+  <Maidnukos.corePart.parts.13.parts.1.parts.2.parts.2.customLabel>right middle finger</Maidnukos.corePart.parts.13.parts.1.parts.2.parts.2.customLabel>
+  <Maidnukos.corePart.parts.13.parts.1.parts.2.parts.3.customLabel>right index finger</Maidnukos.corePart.parts.13.parts.1.parts.2.parts.3.customLabel>
+  <Maidnukos.corePart.parts.13.parts.1.parts.2.parts.4.customLabel>right thumb</Maidnukos.corePart.parts.13.parts.1.parts.2.parts.4.customLabel>
+  <Maidnukos.corePart.parts.13.parts.1.parts.2.customLabel>right hand</Maidnukos.corePart.parts.13.parts.1.parts.2.customLabel>
+  <Maidnukos.corePart.parts.13.parts.1.customLabel>right arm</Maidnukos.corePart.parts.13.parts.1.customLabel>
+  <Maidnukos.corePart.parts.13.customLabel>오른쪽 어깨</Maidnukos.corePart.parts.13.customLabel>
+  <Maidnukos.corePart.parts.15.parts.0.customLabel>left femur</Maidnukos.corePart.parts.15.parts.0.customLabel>
+  <Maidnukos.corePart.parts.15.parts.1.customLabel>left tibia</Maidnukos.corePart.parts.15.parts.1.customLabel>
+  <Maidnukos.corePart.parts.15.parts.2.parts.0.customLabel>left little toe</Maidnukos.corePart.parts.15.parts.2.parts.0.customLabel>
+  <Maidnukos.corePart.parts.15.parts.2.parts.1.customLabel>left fourth toe</Maidnukos.corePart.parts.15.parts.2.parts.1.customLabel>
+  <Maidnukos.corePart.parts.15.parts.2.parts.2.customLabel>left middle toe</Maidnukos.corePart.parts.15.parts.2.parts.2.customLabel>
+  <Maidnukos.corePart.parts.15.parts.2.parts.3.customLabel>left second toe</Maidnukos.corePart.parts.15.parts.2.parts.3.customLabel>
+  <Maidnukos.corePart.parts.15.parts.2.parts.4.customLabel>left big toe</Maidnukos.corePart.parts.15.parts.2.parts.4.customLabel>
+  <Maidnukos.corePart.parts.15.parts.2.customLabel>왼발</Maidnukos.corePart.parts.15.parts.2.customLabel>
+  <Maidnukos.corePart.parts.15.customLabel>왼쪽 다리</Maidnukos.corePart.parts.15.customLabel>
+  <Maidnukos.corePart.parts.16.parts.0.customLabel>right femur</Maidnukos.corePart.parts.16.parts.0.customLabel>
+  <Maidnukos.corePart.parts.16.parts.1.customLabel>right tibia</Maidnukos.corePart.parts.16.parts.1.customLabel>
+  <Maidnukos.corePart.parts.16.parts.2.parts.0.customLabel>right little toe</Maidnukos.corePart.parts.16.parts.2.parts.0.customLabel>
+  <Maidnukos.corePart.parts.16.parts.2.parts.1.customLabel>right fourth toe</Maidnukos.corePart.parts.16.parts.2.parts.1.customLabel>
+  <Maidnukos.corePart.parts.16.parts.2.parts.2.customLabel>right middle toe</Maidnukos.corePart.parts.16.parts.2.parts.2.customLabel>
+  <Maidnukos.corePart.parts.16.parts.2.parts.3.customLabel>right second toe</Maidnukos.corePart.parts.16.parts.2.parts.3.customLabel>
+  <Maidnukos.corePart.parts.16.parts.2.parts.4.customLabel>right big toe</Maidnukos.corePart.parts.16.parts.2.parts.4.customLabel>
+  <Maidnukos.corePart.parts.16.parts.2.customLabel>right foot</Maidnukos.corePart.parts.16.parts.2.customLabel>
+  <Maidnukos.corePart.parts.16.customLabel>오른쪽 다리</Maidnukos.corePart.parts.16.customLabel>
+
+
+</LanguageData>

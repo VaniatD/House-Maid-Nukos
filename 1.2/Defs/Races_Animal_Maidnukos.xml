@@ -1,0 +1,345 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <ThingDef ParentName="AnimalThingBase">
+    <defName>Maidnukos</defName>
+    <label>Nuko</label>
+    <description>On a distant glitterworld during the 3100s, cat-loving genetic scientists utilized gene-splicing technology to combine the best qualities of humans and cats. The Nukos were the result of this technology.\n\nNukos mature significantly faster than humans, but still have about half of their life expectancy. They don't grow as large or as powerful as humans, but they are more agile, increasing their speed. They are intelligent enough to be trained in tasks considered simple for humans. They also tend to be beautiful and affectionate towards their masters.\n\nIn the distant Eternal Empire and various glitterworlds, Nukos are a popular family pet for providing assistance. However, there are some feral packs living on numerous other worlds.</description>
+    <statBases>
+      <MoveSpeed>6.33</MoveSpeed>
+      <ComfyTemperatureMin>-20</ComfyTemperatureMin>
+      <MarketValue>998</MarketValue>
+      <ArmorRating_Blunt>0.2</ArmorRating_Blunt>
+      <ArmorRating_Sharp>0.2</ArmorRating_Sharp>
+      <ForagedNutritionPerDay>0.5</ForagedNutritionPerDay>
+      <MeleeHitChance>12</MeleeHitChance>
+      <MeleeDodgeChance>8</MeleeDodgeChance>
+    </statBases>
+    <tools>
+      <li>
+        <label>teeth</label>
+        <capacities>
+          <li>Bite</li>
+        </capacities>
+        <power>4</power>
+        <cooldownTime>2.0</cooldownTime>
+        <linkedBodyPartsGroup>Teeth</linkedBodyPartsGroup>
+      </li>
+      <li>
+        <label>left fist</label>
+        <capacities>
+          <li>Blunt</li>
+        </capacities>
+        <power>5</power>
+        <cooldownTime>1.6</cooldownTime>
+        <linkedBodyPartsGroup>LeftHand</linkedBodyPartsGroup>
+        <surpriseAttack>
+          <extraMeleeDamages>
+            <li>
+              <def>Stun</def>
+              <amount>22</amount>
+            </li>
+          </extraMeleeDamages>
+        </surpriseAttack>
+      </li>
+      <li>
+        <label>right fist</label>
+        <capacities>
+          <li>Blunt</li>
+        </capacities>
+        <power>5</power>
+        <cooldownTime>1.6</cooldownTime>
+        <linkedBodyPartsGroup>RightHand</linkedBodyPartsGroup>
+        <surpriseAttack>
+          <extraMeleeDamages>
+            <li>
+              <def>Stun</def>
+              <amount>22</amount>
+            </li>
+          </extraMeleeDamages>
+        </surpriseAttack>
+      </li>
+      <li>
+        <label>head</label>
+        <capacities>
+          <li>Blunt</li>
+        </capacities>
+        <power>3</power>
+        <cooldownTime>1.65</cooldownTime>
+        <linkedBodyPartsGroup>HeadAttackTool</linkedBodyPartsGroup>
+        <chanceFactor>0.2</chanceFactor>
+      </li>
+    </tools>
+    <comps>
+      <li Class="CompProperties_Milkable">
+        <milkDef>MaidnukosMilk</milkDef>
+        <milkIntervalDays>3</milkIntervalDays>
+        <milkAmount>9</milkAmount>
+      </li>
+      <li Class="CompProperties_Shearable">
+        <woolDef>MaidnukosHair</woolDef>
+        <shearIntervalDays>30</shearIntervalDays>
+        <woolAmount>60</woolAmount>
+      </li>
+      <!--<li Class="MaidNukos.CompProperties_PawnFixGender"><fixedGender>Female</fixedGender><activeOnDays>5</activeOnDays></li>-->
+    </comps>
+    <race>
+      <thinkTreeMain>Maidnukos</thinkTreeMain>
+      <foodType>VegetarianRoughAnimal, OmnivoreRoughAnimal, OvivoreAnimal</foodType>
+      <body>Maidnukos</body>
+      <ageGenerationCurve>
+        <points>
+          <li>(1.5,0)</li>
+          <li>(3,25)</li>
+          <li>(6,55)</li>
+          <li>(14,0)</li>
+        </points>
+      </ageGenerationCurve>
+      <makesFootprints>true</makesFootprints>
+      <lifeExpectancy>40</lifeExpectancy>
+      <packAnimal>true</packAnimal>
+      <predator>true</predator>
+      <maxPreyBodySize>0.25</maxPreyBodySize>
+      <wildness>0.1</wildness>
+      <petness>1</petness>
+      <nuzzleMtbHours>14</nuzzleMtbHours>
+      <canBePredatorPrey>false</canBePredatorPrey>
+      <herdAnimal>true</herdAnimal>
+      <herdMigrationAllowed>false</herdMigrationAllowed>
+      <gestationPeriodDays>45</gestationPeriodDays>
+      <litterSizeCurve>
+        <points>
+          <li>(0.5, 0)</li>
+          <li>(1, 1.6)</li>
+          <li>(2, 0.6)</li>
+          <li>(3, 0.2)</li>
+          <li>(3.5, 0)</li>
+        </points>
+      </litterSizeCurve>
+      <mateMtbHours>72</mateMtbHours>
+      <trainability>Advanced</trainability>
+      <nameOnTameChance>1</nameOnTameChance>
+      <nameOnNuzzleChance>1</nameOnNuzzleChance>
+      <baseBodySize>0.767</baseBodySize>
+      <baseHealthScale>0.833</baseHealthScale>
+      <baseHungerRate>0.5</baseHungerRate>
+      <lifeStageAges>
+        <li>
+          <def>AnimalBaby</def>
+          <minAge>0</minAge>
+        </li>
+        <li>
+          <def>AnimalJuvenile</def>
+          <minAge>2</minAge>
+        </li>
+        <li>
+          <def>AnimalAdult</def>
+          <minAge>6</minAge>
+          <soundWounded>Pawn_Cat_Injured</soundWounded>
+          <soundDeath>Pawn_Cat_Death</soundDeath>
+          <soundCall>Pawn_Cat_Call</soundCall>
+          <soundAngry>Pawn_Cat_Angry</soundAngry>
+        </li>
+      </lifeStageAges>
+      <leatherDef>Leather_Light</leatherDef>
+      <soundMeleeHitPawn>Pawn_Melee_SmallScratch_HitPawn</soundMeleeHitPawn>
+      <soundMeleeHitBuilding>Pawn_Melee_SmallScratch_HitBuilding</soundMeleeHitBuilding>
+      <soundMeleeMiss>Pawn_Melee_SmallScratch_Miss</soundMeleeMiss>
+    </race>
+    <damageMultipliers>
+      <li>
+        <damageDef>Bullet</damageDef>
+        <multiplier>0.75</multiplier>
+      </li>
+    </damageMultipliers>
+    <recipes>
+      <li>AdministerMechSerumHealer</li>
+      <li>InstallArchotechEye</li>
+      <li>InstallArchotechArm</li>
+      <li>InstallArchotechLeg</li>
+      <li>InstallPowerClaw</li>
+      <li>InstallBionicEye</li>
+      <li>InstallBionicArm</li>
+      <li>InstallBionicLeg</li>
+      <li>InstallBionicSpine</li>
+      <li>InstallBionicHeart</li>
+      <li>InstallBionicStomach</li>
+      <li>InstallBionicEar</li>
+      <li>InstallPegLeg</li>
+      <li>InstallWoodenHand</li>
+      <li>InstallWoodenFoot</li>
+      <li>InstallDenture</li>
+      <li>InstallNaturalHeart</li>
+      <li>InstallNaturalLung</li>
+      <li>InstallNaturalKidney</li>
+      <li>InstallNaturalLiver</li>
+      <li>InstallSimpleProstheticLeg</li>
+      <li>InstallSimpleProstheticArm</li>
+      <li>InstallSimpleProstheticHeart</li>
+      <li>InstallCochlearImplant</li>
+      <li>InstallPowerClaw</li>
+      <li>InstallPainstopper</li>
+    </recipes>
+    <tradeTags>
+      <li>AnimalExotic</li>
+    </tradeTags>
+  </ThingDef>
+  <PawnKindDef ParentName="AnimalKindBase">
+    <defName>Maidnukos</defName>
+    <label>nuko</label>
+    <race>Maidnukos</race>
+    <combatPower>99</combatPower>
+    <ecoSystemWeight>0</ecoSystemWeight>
+    <lifeStages>
+      <li>
+        <label>Nuko baby</label>
+        <labelPlural>Nuko babies</labelPlural>
+        <bodyGraphicData>
+          <texPath>Things/Pawn/Animal/Maidbaby</texPath>
+          <drawSize>0.67</drawSize>
+        </bodyGraphicData>
+        <femaleGraphicData>
+          <texPath>Things/Pawn/Animal/FMaidNukobaby</texPath>
+          <drawSize>0.67</drawSize>
+        </femaleGraphicData>
+        <dessicatedBodyGraphicData>
+          <texPath>Things/Pawn/Animal/Cat/Dessicated_Cat</texPath>
+          <drawSize>0.8</drawSize>
+        </dessicatedBodyGraphicData>
+      </li>
+      <li>
+        <label>Nuko children</label>
+        <labelMale>Nuko shota</labelMale>
+        <labelFemale>Nuko loli</labelFemale>
+        <bodyGraphicData>
+          <texPath>Things/Pawn/Animal/Maidnukoshota</texPath>
+          <drawSize>0.93</drawSize>
+        </bodyGraphicData>
+        <femaleGraphicData>
+          <texPath>Things/Pawn/Animal/MaidNukololi</texPath>
+          <drawSize>0.93</drawSize>
+        </femaleGraphicData>
+        <dessicatedBodyGraphicData>
+          <texPath>Things/Pawn/Animal/Cat/Dessicated_Cat</texPath>
+          <drawSize>0.8</drawSize>
+        </dessicatedBodyGraphicData>
+      </li>
+      <li>
+        <label>Nukos</label>
+        <labelMale>Butler nuko</labelMale>
+        <labelFemale>Maid nuko</labelFemale>
+        <bodyGraphicData>
+          <texPath>Things/Pawn/Animal/MaidnukoBoy</texPath>
+          <drawSize>1.25</drawSize>
+        </bodyGraphicData>
+        <femaleGraphicData>
+          <texPath>Things/Pawn/Animal/MaidNukoGirl</texPath>
+          <drawSize>1.25</drawSize>
+        </femaleGraphicData>
+        <dessicatedBodyGraphicData>
+          <texPath>Things/Pawn/Animal/Cat/Dessicated_Cat</texPath>
+          <drawSize>0.8</drawSize>
+        </dessicatedBodyGraphicData>
+        <butcherBodyPart>
+          <bodyPartGroup>Neck</bodyPartGroup>
+          <thing>Nukoidbell</thing>
+        </butcherBodyPart>
+      </li>
+    </lifeStages>
+    <canArriveManhunter>false</canArriveManhunter>
+  </PawnKindDef>
+  <PawnKindDef ParentName="AnimalKindBase">
+    <defName>XmasMaidnukos</defName>
+    <label>Xmas nuko</label>
+    <race>Maidnukos</race>
+    <combatPower>99</combatPower>
+    <ecoSystemWeight>0</ecoSystemWeight>
+    <lifeStages>
+      <li>
+        <label>Nuko baby</label>
+        <labelPlural>Nuko babies</labelPlural>
+        <bodyGraphicData>
+          <texPath>Things/Pawn/Animal/Xmasbaby</texPath>
+          <drawSize>0.67</drawSize>
+        </bodyGraphicData>
+        <femaleGraphicData>
+          <texPath>Things/Pawn/Animal/FXmasNukobaby</texPath>
+          <drawSize>0.67</drawSize>
+        </femaleGraphicData>
+        <dessicatedBodyGraphicData>
+          <texPath>Things/Pawn/Animal/Cat/Dessicated_Cat</texPath>
+          <drawSize>0.8</drawSize>
+        </dessicatedBodyGraphicData>
+      </li>
+      <li>
+        <label>Nuko children</label>
+        <labelMale>Nuko shota</labelMale>
+        <labelFemale>Nuko loli</labelFemale>
+        <bodyGraphicData>
+          <texPath>Things/Pawn/Animal/Xmasnukoshota</texPath>
+          <drawSize>0.93</drawSize>
+        </bodyGraphicData>
+        <femaleGraphicData>
+          <texPath>Things/Pawn/Animal/XmasNukololi</texPath>
+          <drawSize>0.93</drawSize>
+        </femaleGraphicData>
+        <dessicatedBodyGraphicData>
+          <texPath>Things/Pawn/Animal/Cat/Dessicated_Cat</texPath>
+          <drawSize>0.8</drawSize>
+        </dessicatedBodyGraphicData>
+      </li>
+      <li>
+        <label>Nukos</label>
+        <labelMale>Butler nuko</labelMale>
+        <labelFemale>Maid nuko</labelFemale>
+        <bodyGraphicData>
+          <texPath>Things/Pawn/Animal/XmasNukoBoyS</texPath>
+          <drawSize>1.25</drawSize>
+        </bodyGraphicData>
+        <femaleGraphicData>
+          <texPath>Things/Pawn/Animal/XmasNukoGirl</texPath>
+          <drawSize>1.25</drawSize>
+        </femaleGraphicData>
+        <dessicatedBodyGraphicData>
+          <texPath>Things/Pawn/Animal/Cat/Dessicated_Cat</texPath>
+          <drawSize>0.8</drawSize>
+        </dessicatedBodyGraphicData>
+        <butcherBodyPart>
+          <bodyPartGroup>HeadAttackTool</bodyPartGroup>
+          <thing>xmasantlers</thing>
+        </butcherBodyPart>
+      </li>
+    </lifeStages>
+    <inventoryOptions>
+      <thingDef>Silver</thingDef>
+      <countRange>
+        <min>100</min>
+        <max>300</max>
+      </countRange>
+      <skipChance>0.4</skipChance>
+      <subOptionsChooseOne>
+        <li>
+          <thingDef>Chocolate</thingDef>
+          <countRange>
+            <min>10</min>
+            <max>20</max>
+          </countRange>
+        </li>
+        <li>
+          <thingDef>MedicineIndustrial</thingDef>
+          <countRange>
+            <min>5</min>
+            <max>10</max>
+          </countRange>
+        </li>
+        <li>
+          <thingDef>Hyperweave</thingDef>
+          <countRange>
+            <min>15</min>
+            <max>30</max>
+          </countRange>
+        </li>
+      </subOptionsChooseOne>
+    </inventoryOptions>
+    <canArriveManhunter>false</canArriveManhunter>
+  </PawnKindDef>
+</Defs>

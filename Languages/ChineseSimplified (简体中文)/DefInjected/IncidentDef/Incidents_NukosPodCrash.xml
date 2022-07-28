@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Nukos pass -->
+  <NukosPasses.label>猫娘路过</NukosPasses.label>
+  
+  <!-- EN: Nukos pod crash -->
+  <NukosPodCrash.label>猫娘宠物舱坠落</NukosPodCrash.label>
+  
+  <!-- EN: Xmas Nukos wander in -->
+  <XmasNukosWanderIn.label>圣诞猫娘加入</XmasNukosWanderIn.label>
+  
+</LanguageData>

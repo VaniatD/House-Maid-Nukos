@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Maidnukos.label>인간형 고양이</Maidnukos.label>
+  <Maidnukos.description>32세기 말기 아득히 먼행성에서 고양이를 사랑하는 유전자 과학자들이 인간과 고양이의 유전자를 교합하여 만든 새로운 생명 입니다. \n 몸매는 가늘고 키도 작고 힘도 인간들보단 약하지만, 걷는 속도만큼은 인간보다 빠릅니다. 고도의 유전자 기술로 만들어진 생명체이기 때문에 모든 여자 휴머노이드 고양이들은 아름답고 매력적이며 사랑스런 외모로 태어나고, 남자 휴머노이드 고양이들은 중성적인 깔끔하고 정갈한 미소년으로 보입니다. \n 저 멀리 떨어져있는 이터널 제국에서 인기있는 애완동물입니다.</Maidnukos.description>
+  <Maidnukos.tools.0.label>이빨</Maidnukos.tools.0.label>
+  <Maidnukos.tools.1.label>왼쪽 주먹</Maidnukos.tools.1.label>
+  <Maidnukos.tools.2.label>오른쪽 주먹</Maidnukos.tools.2.label>
+  <Maidnukos.tools.3.label>머리</Maidnukos.tools.3.label>
+  <Maidnukos_Leather.label>인간형 고양이 가죽</Maidnukos_Leather.label>
+  <Maidnukos_Leather.description>인간형 고양이 가죽</Maidnukos_Leather.description>
+  <Maidnukos_Leather.stuffProps.stuffAdjective>인간형 고양이 가죽</Maidnukos_Leather.stuffProps.stuffAdjective>
+  <Maidnukos_Meat.label>인간형 고양이 고기</Maidnukos_Meat.label>
+  <Maidnukos_Meat.description>인간형 고양이 고기</Maidnukos_Meat.description>
+  <Maidnukos_Corpse.label>인간형 고양이 시체</Maidnukos_Corpse.label>
+  <Maidnukos_Corpse.description>인간형 고양이 시체</Maidnukos_Corpse.description>
+
+
+</LanguageData>

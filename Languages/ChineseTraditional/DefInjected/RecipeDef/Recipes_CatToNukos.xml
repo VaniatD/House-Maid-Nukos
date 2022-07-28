@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+	<LanguageData>
+		<CatToNukos.label>給我變</CatToNukos.label>
+		<CatToNukos.description>將貓轉換成貓娘。</CatToNukos.description>
+		<CatToNukos.jobString>正在手術。</CatToNukos.jobString>
+		<CatToNukos.successfullyRemovedHediffMessage>{0}成功將{1}變成貓娘。</CatToNukos.successfullyRemovedHediffMessage>
+	</LanguageData>

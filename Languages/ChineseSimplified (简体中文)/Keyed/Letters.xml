@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: Nuko pod crash -->
+  <LetterLabelNukosPodCrash>宠物舱坠落！</LetterLabelNukosPodCrash>
+  <!-- EN: Somebody dropped a pod here! An injured nuko climbs out... It appears to have been abandoned by its previous owner... -->
+  <LetterNukosPodCrash>一个宠物舱坠落在你的基地上！ 一个可爱的猫娘忍着伤痛从舱内爬了出来……它看起来像是被原来的主人抛弃了……</LetterNukosPodCrash>
+  <!-- EN: Merry Xmas! -->
+  <LetterLabelXmasNukosWanderIn>圣诞快乐!</LetterLabelXmasNukosWanderIn>
+  <!-- EN: Some Xmas nukos have joined your colony with a gift. Happy holidays! -->
+  <LetterXmasNukosWanderIn>节日愉快！圣诞猫娘带着一些礼物加入到你的殖民地了。</LetterXmasNukosWanderIn>
+  <!-- EN: Rare nukos! -->
+  <LetterLabelNukosPasses>猫娘经过!</LetterLabelNukosPasses>
+  <!-- EN: A small group of nukos have wandered into the area.\n\nNukos will leave the area in a few days. -->
+  <LetterNukosPasses>一个猫娘经过了这个地区。\n\n 它们将会停留一两天。.</LetterNukosPasses>
+
+</LanguageData>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+	<LanguageData>
+		<Maidnukos.label>人形生物貓NUKOS</Maidnukos.label>
+		<Maidnukos.description>在遙遠的32世紀末期的地球，某個（年齡=獨身時間的）貓愛好者基因科學家，將人類與貓的基因進行結合併魔改造後所製造出來的物種。
+  \n 身材嬌小不怎麼高，力氣也很小，走路速度倒是比普通人類快。由於是基因科技的產物，所以NUKOS長相普遍都很漂亮可愛，雄性長相也相當美型而且中性（相對於人類而言）。
+  \n 在遙遠的永恆帝國里，是大人氣的家庭助手寵物。</Maidnukos.description>
+		<Maidnukos.tools.0.label>牙</Maidnukos.tools.0.label>
+		<Maidnukos.tools.1.label>左拳</Maidnukos.tools.1.label>
+		<Maidnukos.tools.2.label>右拳</Maidnukos.tools.2.label>
+		<Maidnukos.tools.3.label>頭</Maidnukos.tools.3.label>
+	</LanguageData>

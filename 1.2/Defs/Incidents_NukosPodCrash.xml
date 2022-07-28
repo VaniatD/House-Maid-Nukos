@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <IncidentDef>
+    <defName>NukosPodCrash</defName>
+    <label>Nukos pod crash</label>
+    <category>Misc</category>
+    <targetTags>
+      <li>Map_PlayerHome</li>
+    </targetTags>
+    <workerClass>MaidNukos.IncidentWorker_NukosPodCrash</workerClass>
+    <baseChance>0.75</baseChance>
+    <minRefireDays>48</minRefireDays>
+  </IncidentDef>
+  <IncidentDef>
+    <defName>XmasNukosWanderIn</defName>
+    <label>Xmas Nukos wander in</label>
+    <category>Misc</category>
+    <targetTags>
+      <li>Map_PlayerHome</li>
+    </targetTags>
+    <workerClass>MaidNukos.IncidentWorker_XmasNukosWanderIn</workerClass>
+    <baseChance>2</baseChance>
+    <minRefireDays>50</minRefireDays>
+  </IncidentDef>
+  <IncidentDef>
+    <defName>NukosPasses</defName>
+    <label>Nukos pass</label>
+    <category>Misc</category>
+    <targetTags>
+      <li>Map_PlayerHome</li>
+    </targetTags>
+    <workerClass>MaidNukos.IncidentWorker_NukosPasses</workerClass>
+    <baseChance>0.7</baseChance>
+    <minRefireDays>36</minRefireDays>
+  </IncidentDef>
+</Defs>

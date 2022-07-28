@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+  <name>[L] House Maid Nukos</name>
+  <author>lolidrop</author>
+  <supportedVersions>
+    <li>1.0</li>
+    <li>1.1</li>
+    <li>1.2</li>
+    <li>1.3</li>
+  </supportedVersions>
+  <description>
+
+貓娘（NUKO）
+在32世紀末期，某個（年齡=獨身時間的）貓愛好者基因科學家，將人類與貓的基因結合並且進行魔改造後製作出來的物種。
+貓娘剛出來的時候爆發過一陣貓權的爭議，但最後由於貓娘實在太可愛，很快便被各個家庭所接受。
+由於是基因科技的產物，所以貓娘長相普遍都很漂亮可愛，少有殘缺品，雄性長相也相當美型而且都很中性（對人類來說），也因為如此貓娘是無法進行正常演變進化的。
+貓娘的平均身高只有一米五，力氣比健康成年女性人類小，無法進行複雜的計算與思考，智商最高不過12歲人類小孩的程度。 但是貓娘天生溫順，很容易相信人類，容易依賴主人，溫柔體貼，耐心細膩，手腳靈活，能進行很纖細的作業的關係，在家政業服務業裏大放光彩。很多家庭都樂意領養一名貓娘幫忙打理家務以及帶孩子。
+
+
+Add new animal [House Maid Nukos] for game。It also could clean filth and refuel.
+
+this mod juest a new animal in 1.0. 
+
+and thanks vaniat help me made the code!
+----
+家裡小人再也不用浪費時間在清潔上了！
+想要一個會打掃的貓娘寵物，基於這個想法做了這個MOD。
+
+-----------
+猫娘メイドがほしい……というわけででこれを作りました！
+このMODだけでは掃除してくれません、アシスタント猫も一緒に使えるようにパッチだけにしました。
+
+12.1
+add new event for Nukos
+追加了一個專屬事件
+専用イベントを一つ追加しました
+
+suported language:
+
+english,简体中文，繁體中文，日本語
+
+
+code by Vaniat
+
+  </description>
+  <packageId>Vanya.Agent.HouseMaidNukos</packageId>
+</ModMetaData>

@@ -1,0 +1,103 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Nuko -->
+  <Maidnukos.label>人形生物猫NUKOS</Maidnukos.label>
+  <!-- EN: left lung -->
+  <Maidnukos.corePart.parts.left_lung.customLabel>左肺</Maidnukos.corePart.parts.left_lung.customLabel>
+  <!-- EN: right lung -->
+  <Maidnukos.corePart.parts.right_lung.customLabel>右肺</Maidnukos.corePart.parts.right_lung.customLabel>
+  <!-- EN: left kidney -->
+  <Maidnukos.corePart.parts.left_kidney.customLabel>左肾</Maidnukos.corePart.parts.left_kidney.customLabel>
+  <!-- EN: right kidney -->
+  <Maidnukos.corePart.parts.right_kidney.customLabel>右肾</Maidnukos.corePart.parts.right_kidney.customLabel>
+  <!-- EN: left eye -->
+  <Maidnukos.corePart.parts.Neck.parts.Head.parts.left_eye.customLabel>左眼</Maidnukos.corePart.parts.Neck.parts.Head.parts.left_eye.customLabel>
+  <!-- EN: right eye -->
+  <Maidnukos.corePart.parts.Neck.parts.Head.parts.right_eye.customLabel>右眼</Maidnukos.corePart.parts.Neck.parts.Head.parts.right_eye.customLabel>
+  <!-- EN: left ear -->
+  <Maidnukos.corePart.parts.Neck.parts.Head.parts.left_ear.customLabel>左耳</Maidnukos.corePart.parts.Neck.parts.Head.parts.left_ear.customLabel>
+  <!-- EN: right ear -->
+  <Maidnukos.corePart.parts.Neck.parts.Head.parts.right_ear.customLabel>右耳</Maidnukos.corePart.parts.Neck.parts.Head.parts.right_ear.customLabel>
+  <!-- EN: left shoulder -->
+  <Maidnukos.corePart.parts.left_shoulder.customLabel>左肩</Maidnukos.corePart.parts.left_shoulder.customLabel>
+  <!-- EN: left clavicle -->
+  <Maidnukos.corePart.parts.left_shoulder.parts.left_clavicle.customLabel>左锁骨</Maidnukos.corePart.parts.left_shoulder.parts.left_clavicle.customLabel>
+  <!-- EN: left arm -->
+  <Maidnukos.corePart.parts.left_shoulder.parts.left_arm.customLabel>左臂</Maidnukos.corePart.parts.left_shoulder.parts.left_arm.customLabel>
+  <!-- EN: left humerus -->
+  <Maidnukos.corePart.parts.left_shoulder.parts.left_arm.parts.left_humerus.customLabel>左肱骨</Maidnukos.corePart.parts.left_shoulder.parts.left_arm.parts.left_humerus.customLabel>
+  <!-- EN: left radius -->
+  <Maidnukos.corePart.parts.left_shoulder.parts.left_arm.parts.left_radius.customLabel>左桡骨</Maidnukos.corePart.parts.left_shoulder.parts.left_arm.parts.left_radius.customLabel>
+  <!-- EN: left hand -->
+  <Maidnukos.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.customLabel>左手</Maidnukos.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.customLabel>
+  <!-- EN: left pinky -->
+  <Maidnukos.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_pinky.customLabel>左小指</Maidnukos.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_pinky.customLabel>
+  <!-- EN: left ring finger -->
+  <Maidnukos.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_ring_finger.customLabel>左无名指</Maidnukos.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_ring_finger.customLabel>
+  <!-- EN: left middle finger -->
+  <Maidnukos.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_middle_finger.customLabel>左中指</Maidnukos.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_middle_finger.customLabel>
+  <!-- EN: left index finger -->
+  <Maidnukos.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_index_finger.customLabel>左食指</Maidnukos.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_index_finger.customLabel>
+  <!-- EN: left thumb -->
+  <Maidnukos.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_thumb.customLabel>左拇指</Maidnukos.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_thumb.customLabel>
+  <!-- EN: right shoulder -->
+  <Maidnukos.corePart.parts.right_shoulder.customLabel>右肩</Maidnukos.corePart.parts.right_shoulder.customLabel>
+  <!-- EN: right clavicle -->
+  <Maidnukos.corePart.parts.right_shoulder.parts.right_clavicle.customLabel>右锁骨</Maidnukos.corePart.parts.right_shoulder.parts.right_clavicle.customLabel>
+  <!-- EN: right arm -->
+  <Maidnukos.corePart.parts.right_shoulder.parts.right_arm.customLabel>右臂</Maidnukos.corePart.parts.right_shoulder.parts.right_arm.customLabel>
+  <!-- EN: right humerus -->
+  <Maidnukos.corePart.parts.right_shoulder.parts.right_arm.parts.right_humerus.customLabel>右肱骨</Maidnukos.corePart.parts.right_shoulder.parts.right_arm.parts.right_humerus.customLabel>
+  <!-- EN: right radius -->
+  <Maidnukos.corePart.parts.right_shoulder.parts.right_arm.parts.right_radius.customLabel>右桡骨</Maidnukos.corePart.parts.right_shoulder.parts.right_arm.parts.right_radius.customLabel>
+  <!-- EN: right hand -->
+  <Maidnukos.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.customLabel>右手</Maidnukos.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.customLabel>
+  <!-- EN: right pinky -->
+  <Maidnukos.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.parts.right_pinky.customLabel>右小指</Maidnukos.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.parts.right_pinky.customLabel>
+  <!-- EN: right ring finger -->
+  <Maidnukos.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.parts.right_ring_finger.customLabel>右无名指</Maidnukos.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.parts.right_ring_finger.customLabel>
+  <!-- EN: right middle finger -->
+  <Maidnukos.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.parts.right_middle_finger.customLabel>右中指</Maidnukos.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.parts.right_middle_finger.customLabel>
+  <!-- EN: right index finger -->
+  <Maidnukos.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.parts.right_index_finger.customLabel>右食指</Maidnukos.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.parts.right_index_finger.customLabel>
+  <!-- EN: right thumb -->
+  <Maidnukos.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.parts.right_thumb.customLabel>右拇指</Maidnukos.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.parts.right_thumb.customLabel>
+  <!-- EN: left leg -->
+  <Maidnukos.corePart.parts.left_leg.customLabel>左腿</Maidnukos.corePart.parts.left_leg.customLabel>
+  <!-- EN: left femur -->
+  <Maidnukos.corePart.parts.left_leg.parts.left_femur.customLabel>左股骨</Maidnukos.corePart.parts.left_leg.parts.left_femur.customLabel>
+  <!-- EN: left tibia -->
+  <Maidnukos.corePart.parts.left_leg.parts.left_tibia.customLabel>左胫骨</Maidnukos.corePart.parts.left_leg.parts.left_tibia.customLabel>
+  <!-- EN: left foot -->
+  <Maidnukos.corePart.parts.left_leg.parts.left_foot.customLabel>左足</Maidnukos.corePart.parts.left_leg.parts.left_foot.customLabel>
+  <!-- EN: left little toe -->
+  <Maidnukos.corePart.parts.left_leg.parts.left_foot.parts.left_little_toe.customLabel>左小趾</Maidnukos.corePart.parts.left_leg.parts.left_foot.parts.left_little_toe.customLabel>
+  <!-- EN: left fourth toe -->
+  <Maidnukos.corePart.parts.left_leg.parts.left_foot.parts.left_fourth_toe.customLabel>左四趾</Maidnukos.corePart.parts.left_leg.parts.left_foot.parts.left_fourth_toe.customLabel>
+  <!-- EN: left middle toe -->
+  <Maidnukos.corePart.parts.left_leg.parts.left_foot.parts.left_middle_toe.customLabel>左中趾</Maidnukos.corePart.parts.left_leg.parts.left_foot.parts.left_middle_toe.customLabel>
+  <!-- EN: left second toe -->
+  <Maidnukos.corePart.parts.left_leg.parts.left_foot.parts.left_second_toe.customLabel>左二趾</Maidnukos.corePart.parts.left_leg.parts.left_foot.parts.left_second_toe.customLabel>
+  <!-- EN: left big toe -->
+  <Maidnukos.corePart.parts.left_leg.parts.left_foot.parts.left_big_toe.customLabel>左拇趾</Maidnukos.corePart.parts.left_leg.parts.left_foot.parts.left_big_toe.customLabel>
+  <!-- EN: right leg -->
+  <Maidnukos.corePart.parts.right_leg.customLabel>右腿</Maidnukos.corePart.parts.right_leg.customLabel>
+  <!-- EN: right femur -->
+  <Maidnukos.corePart.parts.right_leg.parts.right_femur.customLabel>右股骨</Maidnukos.corePart.parts.right_leg.parts.right_femur.customLabel>
+  <!-- EN: right tibia -->
+  <Maidnukos.corePart.parts.right_leg.parts.right_tibia.customLabel>右胫骨</Maidnukos.corePart.parts.right_leg.parts.right_tibia.customLabel>
+  <!-- EN: right foot -->
+  <Maidnukos.corePart.parts.right_leg.parts.right_foot.customLabel>右足</Maidnukos.corePart.parts.right_leg.parts.right_foot.customLabel>
+  <!-- EN: right little toe -->
+  <Maidnukos.corePart.parts.right_leg.parts.right_foot.parts.right_little_toe.customLabel>右小趾</Maidnukos.corePart.parts.right_leg.parts.right_foot.parts.right_little_toe.customLabel>
+  <!-- EN: right fourth toe -->
+  <Maidnukos.corePart.parts.right_leg.parts.right_foot.parts.right_fourth_toe.customLabel>右四趾</Maidnukos.corePart.parts.right_leg.parts.right_foot.parts.right_fourth_toe.customLabel>
+  <!-- EN: right middle toe -->
+  <Maidnukos.corePart.parts.right_leg.parts.right_foot.parts.right_middle_toe.customLabel>右中趾</Maidnukos.corePart.parts.right_leg.parts.right_foot.parts.right_middle_toe.customLabel>
+  <!-- EN: right second toe -->
+  <Maidnukos.corePart.parts.right_leg.parts.right_foot.parts.right_second_toe.customLabel>右二趾</Maidnukos.corePart.parts.right_leg.parts.right_foot.parts.right_second_toe.customLabel>
+  <!-- EN: right big toe -->
+  <Maidnukos.corePart.parts.right_leg.parts.right_foot.parts.right_big_toe.customLabel>右拇趾</Maidnukos.corePart.parts.right_leg.parts.right_foot.parts.right_big_toe.customLabel>
+  
+</LanguageData>

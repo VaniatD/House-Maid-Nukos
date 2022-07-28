@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: nuko -->
+  <Maidnukos.label>人形生物猫NUKOS</Maidnukos.label>
+  <!-- EN: Nuko baby -->
+  <Maidnukos.lifeStages.Nuko_baby.label>猫宝宝</Maidnukos.lifeStages.Nuko_baby.label>
+  <!-- EN: Nuko babies -->
+  <Maidnukos.lifeStages.Nuko_baby.labelPlural>猫宝宝</Maidnukos.lifeStages.Nuko_baby.labelPlural>
+  <!-- EN: Nuko children -->
+  <Maidnukos.lifeStages.Nuko_children.label>猫幼儿</Maidnukos.lifeStages.Nuko_children.label>
+  <!-- EN: Nuko loli -->
+  <Maidnukos.lifeStages.Nuko_children.labelFemale>萝莉猫猫</Maidnukos.lifeStages.Nuko_children.labelFemale>
+  <!-- EN: Nuko shota -->
+  <Maidnukos.lifeStages.Nuko_children.labelMale>正太猫猫</Maidnukos.lifeStages.Nuko_children.labelMale>
+  <!-- EN: Nukos -->
+  <Maidnukos.lifeStages.Nukos.label>家佣猫</Maidnukos.lifeStages.Nukos.label>
+  <!-- EN: Maid nuko -->
+  <Maidnukos.lifeStages.Nukos.labelFemale>女仆猫娘</Maidnukos.lifeStages.Nukos.labelFemale>
+  <!-- EN: Butler nuko -->
+  <Maidnukos.lifeStages.Nukos.labelMale>伪娘家佣猫</Maidnukos.lifeStages.Nukos.labelMale>
+  
+  <!-- EN: Xmas nuko -->
+  <XmasMaidnukos.label>人形生物猫NUKOS</XmasMaidnukos.label>
+  <!-- EN: Nuko baby -->
+  <XmasMaidnukos.lifeStages.Nuko_baby.label>猫宝宝</XmasMaidnukos.lifeStages.Nuko_baby.label>
+  <!-- EN: Nuko babies -->
+  <XmasMaidnukos.lifeStages.Nuko_baby.labelPlural>猫宝宝</XmasMaidnukos.lifeStages.Nuko_baby.labelPlural>
+  <!-- EN: Nuko children -->
+  <XmasMaidnukos.lifeStages.Nuko_children.label>猫幼儿</XmasMaidnukos.lifeStages.Nuko_children.label>
+  <!-- EN: Nuko loli -->
+  <XmasMaidnukos.lifeStages.Nuko_children.labelFemale>萝莉猫猫</XmasMaidnukos.lifeStages.Nuko_children.labelFemale>
+  <!-- EN: Nuko shota -->
+  <XmasMaidnukos.lifeStages.Nuko_children.labelMale>正太猫猫</XmasMaidnukos.lifeStages.Nuko_children.labelMale>
+  <!-- EN: Nukos -->
+  <XmasMaidnukos.lifeStages.Nukos.label>家佣猫</XmasMaidnukos.lifeStages.Nukos.label>
+  <!-- EN: Maid nuko -->
+  <XmasMaidnukos.lifeStages.Nukos.labelFemale>家佣猫</XmasMaidnukos.lifeStages.Nukos.labelFemale>
+  <!-- EN: Butler nuko -->
+  <XmasMaidnukos.lifeStages.Nukos.labelMale>家佣猫</XmasMaidnukos.lifeStages.Nukos.labelMale>
+  
+</LanguageData>

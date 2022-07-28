@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <RecipeDef ParentName="SurgeryFlesh">
+    <defName>CatToNukos</defName>
+    <label>Genetic cat modification</label>
+    <description>Genetically modifies a cat into a nuko.</description>
+    <workerClass>MaidNukos.Recipe_CatToNukos</workerClass>
+    <jobString>Cat to nukos.</jobString>
+    <workAmount>2500</workAmount>
+    <successfullyRemovedHediffMessage>{0} has successfully modified {1} into a nuko.</successfullyRemovedHediffMessage>
+    <hideBodyPartNames>true</hideBodyPartNames>
+    <targetsBodyPart>false</targetsBodyPart>
+    <skillRequirements>
+      <Medicine>10</Medicine>
+    </skillRequirements>
+    <ingredients>
+      <li>
+        <filter>
+          <categories>
+            <li>Medicine</li>
+          </categories>
+        </filter>
+        <count>3</count>
+      </li>
+    </ingredients>
+    <fixedIngredientFilter>
+      <categories>
+        <li>Medicine</li>
+      </categories>
+    </fixedIngredientFilter>
+    <recipeUsers>
+      <li>Cat</li>
+    </recipeUsers>
+  </RecipeDef>
+</Defs>

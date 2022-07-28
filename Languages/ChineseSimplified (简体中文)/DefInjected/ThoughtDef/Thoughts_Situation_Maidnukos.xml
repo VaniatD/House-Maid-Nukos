@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Nuko hair {0} -->
+  <MaidnukosHairApparelHappy.stages.Nuko_hair.label>猫娘的头发 {0}</MaidnukosHairApparelHappy.stages.Nuko_hair.label>
+  <!-- EN: It's really soft and comfortable. -->
+  <MaidnukosHairApparelHappy.stages.Nuko_hair.description>这触感真的好柔软</MaidnukosHairApparelHappy.stages.Nuko_hair.description>
+  <!-- EN: Nuko hair {0} (+1) -->
+  <MaidnukosHairApparelHappy.stages.Nuko_hair_1.label>猫娘的头发 {0} (+1)</MaidnukosHairApparelHappy.stages.Nuko_hair_1.label>
+  <!-- EN: I like this feeling. -->
+  <MaidnukosHairApparelHappy.stages.Nuko_hair_1.description>我好喜欢这种感觉</MaidnukosHairApparelHappy.stages.Nuko_hair_1.description>
+  <!-- EN: Nuko hair {0} (+2) -->
+  <MaidnukosHairApparelHappy.stages.Nuko_hair_2.label>猫娘的头发 {0} (+2)</MaidnukosHairApparelHappy.stages.Nuko_hair_2.label>
+  <!-- EN: It's like being embraced by nukos! -->
+  <MaidnukosHairApparelHappy.stages.Nuko_hair_2.description>感觉被柔软的东西包裹住了</MaidnukosHairApparelHappy.stages.Nuko_hair_2.description>
+  <!-- EN: Nuko hair {0} etc -->
+  <MaidnukosHairApparelHappy.stages.Nuko_hair_etc.label>猫娘的头发 {0} etc</MaidnukosHairApparelHappy.stages.Nuko_hair_etc.label>
+  <!-- EN: This feels heavenly... -->
+  <MaidnukosHairApparelHappy.stages.Nuko_hair_etc.description>感觉整个人被治愈了</MaidnukosHairApparelHappy.stages.Nuko_hair_etc.description>
+  
+  <!-- EN: Nuko nearby -->
+  <NukosNearbySelf.stages.Nuko_nearby.label>猫娘在附近</NukosNearbySelf.stages.Nuko_nearby.label>
+  <!-- EN: I'm so happy to have a nuko living with me. -->
+  <NukosNearbySelf.stages.Nuko_nearby.description>猫娘治愈了我的心灵</NukosNearbySelf.stages.Nuko_nearby.description>
+  
+</LanguageData>

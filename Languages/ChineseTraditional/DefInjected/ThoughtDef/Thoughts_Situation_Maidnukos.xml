@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+	<LanguageData>
+		<NukosNearbySelf.stages.0.label>貓娘在附近</NukosNearbySelf.stages.0.label>
+		<NukosNearbySelf.stages.0.description>貓娘治癒了我的心靈</NukosNearbySelf.stages.0.description>
+		<MaidnukosHairApparelHappy.stages.0.label>貓娘的頭髮 {0}</MaidnukosHairApparelHappy.stages.0.label>
+		<MaidnukosHairApparelHappy.stages.0.description>這觸感真的好柔軟</MaidnukosHairApparelHappy.stages.0.description>
+		<MaidnukosHairApparelHappy.stages.1.label>貓娘的頭髮 {0} (+1)</MaidnukosHairApparelHappy.stages.1.label>
+		<MaidnukosHairApparelHappy.stages.1.description>我好喜歡這種感覺</MaidnukosHairApparelHappy.stages.1.description>
+		<MaidnukosHairApparelHappy.stages.2.label>貓娘的頭髮 {0} (+2)</MaidnukosHairApparelHappy.stages.2.label>
+		<MaidnukosHairApparelHappy.stages.2.description>感覺被柔軟的東西包裹住了</MaidnukosHairApparelHappy.stages.2.description>
+		<MaidnukosHairApparelHappy.stages.3.label>貓娘的頭髮 {0} etc</MaidnukosHairApparelHappy.stages.3.label>
+		<MaidnukosHairApparelHappy.stages.3.description>感覺整個人被治癒了</MaidnukosHairApparelHappy.stages.3.description>
+	</LanguageData>
