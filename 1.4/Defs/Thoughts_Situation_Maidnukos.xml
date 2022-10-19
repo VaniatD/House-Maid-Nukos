@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <ThoughtDef>
+    <defName>NukosNearbySelf</defName>
+    <workerClass>MaidNukos.ThoughtWorker_NukosNearbySelf</workerClass>
+    <stages>
+      <li>
+        <label>Nuko nearby</label>
+        <description>I'm so happy to have a nuko living with me.</description>
+        <baseMoodEffect>5</baseMoodEffect>
+      </li>
+    </stages>
+  </ThoughtDef>
+  <ThoughtDef>
+    <defName>MaidnukosHairApparelHappy</defName>
+    <workerClass>MaidNukos.ThoughtWorker_MaidnukosHairApparel</workerClass>
+    <validWhileDespawned>true</validWhileDespawned>
+    <stages>
+      <li>
+        <label>Nuko hair {0}</label>
+        <description>It's really soft and comfortable.</description>
+        <baseMoodEffect>+3</baseMoodEffect>
+      </li>
+      <li>
+        <label>Nuko hair {0} (+1)</label>
+        <description>I like this feeling.</description>
+        <baseMoodEffect>+7</baseMoodEffect>
+      </li>
+      <li>
+        <label>Nuko hair {0} (+2)</label>
+        <description>It's like being embraced by nukos!</description>
+        <baseMoodEffect>+12</baseMoodEffect>
+      </li>
+      <li>
+        <label>Nuko hair {0} etc</label>
+        <description>This feels heavenly...</description>
+        <baseMoodEffect>+20</baseMoodEffect>
+      </li>
+    </stages>
+  </ThoughtDef>
+</Defs>

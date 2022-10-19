@@ -19,18 +19,23 @@
       <StuffPower_Insulation_Heat>35</StuffPower_Insulation_Heat>
     </statBases>
     <stuffProps>
-      <color>(240,205,177)</color>
+      <!--<color>(240,205,177)</color>-->
       <commonality>0.06</commonality>
       <statOffsets>
         <Insulation_Cold>5</Insulation_Cold>
         <Insulation_Heat>5</Insulation_Heat>
         <Beauty>2</Beauty>
+        <Cleanliness>1</Cleanliness>
       </statOffsets>
       <statFactors>
         <Beauty>1.5</Beauty>
         <Flammability>0.6</Flammability>
         <MaxHitPoints>0.8</MaxHitPoints>
+        <BedRestEffectiveness>1.15</BedRestEffectiveness>
+        <Comfort>1.3</Comfort>
+        <SellPriceFactor>1.3</SellPriceFactor>
       </statFactors>
+      <color>RGBA(240,205,177,153)</color>
     </stuffProps>
   </ThingDef>
   <!--nukomilk-->

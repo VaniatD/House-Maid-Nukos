@@ -181,6 +181,7 @@
     </recipes>
     <tradeTags>
       <li>AnimalExotic</li>
+      <li>AnimalInsectSpace</li>
     </tradeTags>
   </ThingDef>
   <PawnKindDef ParentName="AnimalKindBase">
